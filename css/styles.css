@@ -1,0 +1,78 @@
+.p1 {
+    font-family: serif;
+    font-size: 20px;
+}
+.p2{
+    font-family: Sans-serif;
+    font-size: 20px;
+}
+.p3{
+    font-family: Monospace;
+    font-size: 20px;
+}
+.p4{
+    font-family: cursive;
+    font-size: 20px;
+}
+.p5{
+    font-family: fantasy;
+    font-size: 20px;
+}
+.s1{
+    font-style: normal;
+    font-size: 20px;
+}
+  
+.s2{
+    font-style: italic;
+    font-size: 20px;
+}
+  
+.s3{
+    font-style: oblique;
+    font-size: 20px;
+}
+.w1{
+    font-weight: normal;
+    font-size: 20px;
+}
+  
+.w2{
+    font-weight: light;
+    font-size: 20px;
+}
+  
+.w3{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.w4{
+    font-weight: lighter;
+    font-size: 20px;
+}
+  
+.w5{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.v1{
+    font-variant: normal;
+  }
+  
+.v2{
+    font-variant: small-caps;
+  }
+
+.fs1{
+    font-size: 40px;
+  }
+  
+.fs2{
+    font-size: 3em;
+  }
+  
+.fs3{
+    font-size: 14%;
+  }
