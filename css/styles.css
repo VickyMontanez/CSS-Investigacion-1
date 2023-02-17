@@ -87,3 +87,24 @@
 .google2{
     font-family: "Trirong", serif;;
 }
+.b1{
+    background-color: coral
+}
+.b2{
+    background-image: url(../img/descarga.jpg), url(../img/img.jpg);
+    background-repeat: no-repeat, repeat;
+    background-position: center; 
+}
+
+.b3{
+    height: 200px;
+    background-color: #cccccc;
+    background-image: linear-gradient(rgb(211, 145, 70), yellow);
+}
+
+.b4{
+    height: 200px;
+    background-color: #cccccc;
+    background-image: repeating-radial-gradient(rgb(142, 213, 241), rgb(210, 238, 217) 10%, rgb(199, 166, 171) 20%);
+}
+
