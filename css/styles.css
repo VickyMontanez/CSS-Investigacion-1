@@ -1,14 +1,17 @@
 .p1 {
     font-family: serif;
     font-size: 20px;
+    border: 5px solid red;
 }
 .p2{
     font-family: Sans-serif;
     font-size: 20px;
+    border-left: 6px solid red;
 }
 .p3{
     font-family: Monospace;
     font-size: 20px;
+    border-bottom: 6px solid red;
 }
 .p4{
     font-family: cursive;
@@ -21,11 +24,15 @@
 .s1{
     font-style: normal;
     font-size: 20px;
+    border-style: solid;
+    border-width: 5px;
 }
   
 .s2{
     font-style: italic;
     font-size: 20px;
+    border-style: dotted;
+    border-width: thick;
 }
   
 .s3{
@@ -35,11 +42,15 @@
 .w1{
     font-weight: normal;
     font-size: 20px;
+    border-style: solid;
+    border-width: 5px 10px;
 }
   
 .w2{
     font-weight: light;
     font-size: 20px;
+    border-style: solid;
+    border-width: 8px 10px 4px 35px
 }
   
 .w3{
@@ -67,6 +78,8 @@
 
 .fs1{
     font-size: 40px;
+    border-radius: 5px;
+    border-style: double;
   }
   
 .fs2{
